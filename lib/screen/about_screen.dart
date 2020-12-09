@@ -30,7 +30,7 @@ class aboutPage extends StatelessWidget {
     final lorem = Padding(
         padding: EdgeInsets.all(8.0),
         child: Text(
-          'Aplikasi chat untuk memenuhi Ujian Tengah Semester Matakuliah Mobile programming II',
+          'Aplikasi chat untuk memenuhi Ujian Tengah Semester Matakuliah Mobile programming II    Copyright by Amelia Hermawanti_18111012',
           style: TextStyle(
             fontSize: 16.0,
             color: Colors.white
